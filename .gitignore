@@ -1,0 +1,7 @@
+site/
+.obsidian/
+*.DS_Store
+
+# Days 3-20 live here until you're ready to package them for Gumroad.
+# This keeps them OUT of the public GitHub repo (which only shows Days 1-2).
+full-course-source/

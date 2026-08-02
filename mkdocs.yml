@@ -1,0 +1,45 @@
+site_name: 20 Days of Russian
+site_description: A 20-day Russian language course — text, audio, grammar, and conversation, one day at a time.
+site_url: https://YOURUSERNAME.github.io/russian-course/
+repo_url: https://github.com/YOURUSERNAME/russian-course
+docs_dir: docs
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+  - roamlinks
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+
+nav:
+  - Home: index.md
+  - Free Preview:
+      - Day 1: "Free Preview/Day 01.md"
+      - Day 2: "Free Preview/Day 02.md"
+  - Get the Full Course: get-full-course.md
