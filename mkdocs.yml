@@ -1,5 +1,5 @@
-site_name: 20 Days of Russian
-site_description: A 20-day Russian language course — text, audio, grammar, and conversation, one day at a time.
+site_name: 20 Units of Russian
+site_description: A 20-unit Russian language course — text, audio, grammar, and conversation, one unit at a time.
 site_url: https://YOURUSERNAME.github.io/russian-course/
 repo_url: https://github.com/YOURUSERNAME/russian-course
 docs_dir: docs
@@ -40,6 +40,6 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Free Preview:
-      - Day 1: "Free Preview/Day 01.md"
-      - Day 2: "Free Preview/Day 02.md"
+      - Unit 1: "Free Preview/Unit 01.md"
+      - Unit 2: "Free Preview/Unit 02.md"
   - Get the Full Course: get-full-course.md
