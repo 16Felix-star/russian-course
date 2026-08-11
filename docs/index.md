@@ -1,20 +1,35 @@
 ---
-title: 20 Units of Russian
+title: Russian Course — Modules & Days
 ---
 
-# 20 Units of Russian
+# Russian Course
 
-A structured course for upper-intermediate to advanced learners of Russian. Each unit pairs a short text with an audio passage, a focused grammar point, and a conversation exercise built directly on what you just read.
+A structured Russian course organized into 11 thematic modules, each covering 2 days of material:
 
-**What each unit includes:**
+- Module 0 — Geography and Environment
+- Module 1 — Social Issues
+- Module 2 — Customs and Traditions
+- Module 3 — Education and Employment
+- Module 4 — Healthcare and Benefits
+- Module 5 — Crime and Security
+- Module 6 — History and Military
+- Module 7 — Science and Technology
+- Module 8 — Trade & Economy
+- Module 9 — Internal and Foreign Affairs
+- Module 10 — Literature and Culture
 
-- **Text** — a short passage, glossed and annotated
-- **Audio** — a recording of the passage for listening practice
-- **Grammar** — one focused point drawn from the unit's text
-- **Conversation** — speaking/writing prompts that build on the passage and grammar
+Every day includes two listening passages and two reading passages — each with pre-activity vocabulary, comprehension checks, and post-activity discussion questions — followed by a topical discussion and a vocabulary review exercise.
 
-Try the first two units for free below. The full 20-unit course is available as a one-time purchase.
+**What each day includes:**
 
-- [[Free Preview/Unit 01|Unit 1 — Free Preview]]
-- [[Free Preview/Unit 02|Unit 2 — Free Preview]]
-- [[get-full-course|Get the Full 20-Unit Course →]]
+- **Topic Preview & Warm-Up** — a short thematic introduction and warm-up question(s)
+- **Listening Comprehension** (×2 passages) — vocabulary, comprehension check, audio (with optional video and transcript), discussion questions
+- **Reading Comprehension** (×2 passages) — vocabulary, comprehension check, reading passage, discussion questions
+- **Topical Discussion** — synthesizing questions across the day's material
+- **Vocabulary Review** — info-gap and translation exercise
+
+Try Module 0 (Geography and Environment) for free below. The full 11-module course is available as a one-time purchase.
+
+- [[Free Preview/Module 0_ Geography and Environment/Day 1|Module 0, Day 1 — Free Preview]]
+- [[Free Preview/Module 0_ Geography and Environment/Day 2|Module 0, Day 2 — Free Preview]]
+- [[get-full-course|Get the Full Course →]]

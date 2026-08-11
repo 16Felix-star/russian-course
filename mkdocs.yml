@@ -1,5 +1,5 @@
-site_name: 20 Units of Russian
-site_description: A 20-unit Russian language course — text, audio, grammar, and conversation, one unit at a time.
+site_name: Russian Course — Modules & Days
+site_description: An 11-module thematic Russian language course (2 days per module) — listening and reading comprehension, discussion, and vocabulary review.
 site_url: https://YOURUSERNAME.github.io/russian-course/
 repo_url: https://github.com/YOURUSERNAME/russian-course
 docs_dir: docs
@@ -39,7 +39,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Free Preview:
-      - Unit 1: "Free Preview/Unit 01.md"
-      - Unit 2: "Free Preview/Unit 02.md"
+  - "Free Preview — Module 0: Geography and Environment":
+      - Day 1: "Free Preview/Module 0_ Geography and Environment/Day 1.md"
+      - Day 2: "Free Preview/Module 0_ Geography and Environment/Day 2.md"
   - Get the Full Course: get-full-course.md
