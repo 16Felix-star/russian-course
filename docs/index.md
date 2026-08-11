@@ -14,7 +14,7 @@ A structured Russian course organized into 11 thematic modules, each covering 2 
 - Module 5 — Crime and Security
 - Module 6 — History and Military
 - Module 7 — Science and Technology
-- Module 8 — Trade & Economy
+- Module 8 — Trade and Economy
 - Module 9 — Internal and Foreign Affairs
 - Module 10 — Literature and Culture
 

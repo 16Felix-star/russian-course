@@ -4,7 +4,7 @@ title: Get the Full Course
 
 # Get the Full Course
 
-You've seen Module 0 — Geography and Environment (Days 1 and 2). The full course covers all 11 modules (22 days total), spanning Social Issues, Customs and Traditions, Education and Employment, Healthcare and Benefits, Crime and Security, History and Military, Science and Technology, Trade & Economy, Internal and Foreign Affairs, and Literature and Culture. Each day includes:
+You've seen Module 0 — Geography and Environment (Days 1 and 2). The full course covers all 11 modules (22 days total), spanning Social Issues, Customs and Traditions, Education and Employment, Healthcare and Benefits, Crime and Security, History and Military, Science and Technology, Trade and Economy, Internal and Foreign Affairs, and Literature and Culture. Each day includes:
 
 - Two listening comprehension passages, with vocabulary, comprehension checks, and discussion
 - Two reading comprehension passages, with vocabulary, comprehension checks, and discussion
