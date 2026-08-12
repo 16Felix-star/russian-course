@@ -12,7 +12,8 @@ tags: [free-preview]
 **Topic:** География и окружающая среда
 
 **Warm-up question(s):**
-
+![Volga River](../../
+assets/images/volga_river_slavic.jpg)
 1. Что вы знаете о географии России?
 2.  Где находится Волга?
 3.  Чем известен север России?
@@ -94,30 +95,102 @@ D) It has no historical importance.
 ## 3. Reading Comprehension — Passage 1
 
 ### Pre-Reading
+![Lake Baikal](../assets/images/lake_baikal_photoreal
+.jpg)
+**1. Любите ли вы путешествовать?**
+
+**2. Какие виды туризма вы предпочитаете и почему?**
+
+**3. Какие города или страны вы хотели бы посетить и почему?*
 
 **Vocabulary:**
+**1. переживать бум —** to experience a boom; to become rapidly more popular
 
-*(vocab list for this passage — paste or type here)*
+**2. достойный маршрут** — a worthwhile route
 
-**Comprehension check (multiple choice):**
+**3. покорять** — to conquer; to successfully complete a challenging route
 
-1. *(question 1)*
-2. *(question 2)*
-3. *(question 3)*
-4. *(question 4)*
-5. *(question 5)*
+**4. горный серпантин** — a winding mountain road
+
+**5. велопоездка** — a bicycle trip
+
+**6. предгорье** — foothill
+
+**7. шаманский мыс** — shamanic cape
+
+**8. гравий** — gravel
+
+**9. сбавить давление** — to reduce the pressure
+
+**10. шина** — tire
+
+**11. переменчивая погода** — changeable weather
+
+**12. ветровка** — windbreaker
+
+**13. прогреваться** — to warm up
+
+**14. паром** — ferry
+
+**15. турбаза** — tourist base; holiday camp
+
+**16. источник** — water source
+
+**17. подстраиваться** — to adapt
+
+**18. закрепить вещи** — to fasten belongings securely
+
+**19. степь** — steppe; a vast, mostly treeless grassland in Eurasia, similar to a prairie
+
+**20. священный** — sacred; holy
+
+  
+  
+
+
+
+**Comprehension check:**
+
+1. **What is the approximate length of the route from Irkutsk to Olkhon?**
+A. About 100 kilometers
+B. About 200 kilometers
+C. About 300 kilometers
+D. About 500 kilometers
+
+2. **Why do experienced cyclists advise reducing tire pressure on Olkhon?**
+A. To ride faster on asphalt
+B. To make riding on sand easier
+C. To reduce the risk of being blown off course by strong winds
+D. To prevent the tires from overheating during hot afternoons
+
+3. **When does the text recommend taking this route around Lake Baikal?**
+A. March–April
+B. May–June
+C. July–August
+D. October–November
+
+4. **Why is water mentioned in the route advice?**
+A. Cyclists may have difficulty finding places to refill their drinking water.
+B. Cyclists are reassured they can drink directly from Lake Baikal throughout the trip, since it is a source of the purest water on earth.
+C. Cyclists need water to wash sand from their bicycles each evening.
+D. Cyclists should be aware of the fact that even in summer water is cold in Baikal.
+
+5. **Where does the text recommend staying on Olkhon Island?**
+A. In the village of Khuzhir, since affordable hotels are available there
+B. In central Irkutsk, since it has great infrastructure
+C. At Cape Burkhan, since it is a scenic place
+D. In the foothills near Lake Baikal, since there is an easy access to the lake
 
 ### Reading
 
-*(Paste or embed the reading passage here.)*
+
 
 ### Post-Reading
 
-**Discussion questions:**
 
-1. *(question 1 — delete if you only need one)*
-2. *(question 2 — delete if you only need one)*
-3. *(question 3 — delete if you only need one)*
+
+
+
 
 ## 4. Listening Comprehension — Passage 2
 
