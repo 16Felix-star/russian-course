@@ -12,66 +12,63 @@ tags: [free-preview]
 **Topic:** География и окружающая среда
 
 **Warm-up question(s):**
-![Volga River](../../../assets/images/volga_river_slavic.jpg)
-1. Что вы знаете о географии России?
-2.  Где находится Волга?
-3.  Чем известен север России?
 
-## 2. Listening Comprehension — Passage 1 
+1. Что вы знаете о географии России?
+2. Где находится Волга?
+3. Чем известен север России?
+
+## 2. Listening Comprehension — Passage 1
+
 **Волга: символ России и самая большая река Европы**
+
+![Volga River](../../../assets/images/volga_river_slavic.png)
 
 ### Pre-Listening
 
-**Vocabulary:
-1. **Возвышенность** – highland, elevated area
-    
-2. **Заволжье** – region beyond the Volga (less commonly known term)
-    
-3. **Поволжье** – Volga region
-    
-4. **Дельта** – delta (river delta)
-    
-5. **Приток** - tributary
-    
-6. **Жемчужина** – pearl (used metaphorically as “gem” or “highlight”)
-    
-7. **Волок** – portage (route for transporting boats/cargo between rivers) [волочить = to drag]
-    
-8. **Исток** – source
-    
-9. **Родник** – spring
-    
-10. **Устье** – mouth of a river
+**Vocabulary:**
 
-
+- **Возвышенность** – highland, elevated area
+- **Заволжье** – region beyond the Volga (less commonly known term)
+- **Поволжье** – Volga region
+- **Дельта** – delta (river delta)
+- **Приток** – tributary
+- **Жемчужина** – pearl (used metaphorically as "gem" or "highlight")
+- **Волок** – portage (route for transporting boats/cargo between rivers) [волочить = to drag]
+- **Исток** – source
+- **Родник** – spring
+- **Устье** – mouth of a river
 
 **Comprehension check (multiple choice):**
 
-. **1. What is the significance of the Volga River in Russia?**  
-A) It is a small river used mainly for fishing.  
-B) It symbolizes Russia and connects different regions.  
-C) It flows entirely within Tver Oblast.  
-D) It is the only river in Russia with a delta.
-2. **What does the term “Заволжье” refer to?**  
-A) The upper forested part of the Volga  
-B) The low area on the opposite side of the Volga from the high right bank  
-C) The delta region of the Volga  
-D) The steppe region south of Samara
-3. **Which feature of the Volga delta is highlighted in the text?**  
-A) Its network of canals  
-B) The Astrakhan lotus fields  
-C) The portage routes  
-D) The largest bridge
-4. **Why is the Volga called the “главная улица” of Russia?**  
-A) Because it has the longest bridge in Europe  
-B) Because it historically served as a main transport and trade route  
-C) Because it flows exclusively through cities  
-D) Because it has many lotus fields
-5. **What is stated in the segment about the Volga’s role in Russian culture?**  
-A) It only serves multiple economic purposes.  
-B) It unites diverse peoples and regions of Russia.  
-C) It is a foremost tourist attraction.  
-D) It has no historical importance.
+1. What is the significance of the Volga River in Russia?
+   - A) It is a small river used mainly for fishing.
+   - B) It symbolizes Russia and connects different regions.
+   - C) It flows entirely within Tver Oblast.
+   - D) It is the only river in Russia with a delta.
+
+2. What does the term "Заволжье" refer to?
+   - A) The upper forested part of the Volga
+   - B) The low area on the opposite side of the Volga from the high right bank
+   - C) The delta region of the Volga
+   - D) The steppe region south of Samara
+
+3. Which feature of the Volga delta is highlighted in the text?
+   - A) Its network of canals
+   - B) The Astrakhan lotus fields
+   - C) The portage routes
+   - D) The largest bridge
+
+4. Why is the Volga called the «главная улица» of Russia?
+   - A) Because it has the longest bridge in Europe
+   - B) Because it historically served as a main transport and trade route
+   - C) Because it flows exclusively through cities
+   - D) Because it has many lotus fields
+
+5. What is stated in the segment about the Volga's role in Russian culture?
+   - A) It only serves multiple economic purposes.
+   - B) It unites diverse peoples and regions of Russia.
+   - C) It is a foremost tourist attraction.
+   - D) It has no historical importance.
 
 ### Listening
 
@@ -81,7 +78,7 @@ D) It has no historical importance.
 
 Жемчужина дельты Волги — Астраханские лотосовые поля. Первый мост через Волгу длиной всего 3 метра, а самый большой в Ульяновске — почти 6 километров. Издавна Волгу называли «главной улицей» России. Сеть волоков, а позже каналов, соединяет её с Балтикой и Азовом. Самый крупный правый приток Ока - c Центральной Россией, самый большой левый приток — Кама, водный путь на Урал. Волга стала символом многонациональной России, объединив народы, живущие на её берегах.
 
-[Watch on YouTube](https://youtu.be/uvHuSPyfAHE) 
+[Watch on YouTube](https://youtu.be/uvHuSPyfAHE)
 
 ### Post-Listening
 
@@ -93,167 +90,88 @@ D) It has no historical importance.
 
 ## 3. Reading Comprehension — Passage 1
 
+![Lake Baikal](../../../assets/images/lake_baikal_photoreal.webp)
+
 ### Pre-Reading
-![Lake Baikal](../assets/images/lake_baikal_photoreal
-.jpg)
-**1. Любите ли вы путешествовать?**
 
-**2. Какие виды туризма вы предпочитаете и почему?**
+**Warm-up question(s):**
 
-**3. Какие города или страны вы хотели бы посетить и почему?*
+1. Любите ли вы путешествовать?
+2. Какие виды туризма вы предпочитаете и почему?
+3. Какие города или страны вы хотели бы посетить и почему?
 
 **Vocabulary:**
-**1. переживать бум —** to experience a boom; to become rapidly more popular
 
-**2. достойный маршрут** — a worthwhile route
-
-**3. покорять** — to conquer; to successfully complete a challenging route
-
-**4. горный серпантин** — a winding mountain road
-
-**5. велопоездка** — a bicycle trip
-
-**6. предгорье** — foothill
-
-**7. шаманский мыс** — shamanic cape
-
-**8. гравий** — gravel
-
-**9. сбавить давление** — to reduce the pressure
-
-**10. шина** — tire
-
-**11. переменчивая погода** — changeable weather
-
-**12. ветровка** — windbreaker
-
-**13. прогреваться** — to warm up
-
-**14. паром** — ferry
-
-**15. турбаза** — tourist base; holiday camp
-
-**16. источник** — water source
-
-**17. подстраиваться** — to adapt
-
-**18. закрепить вещи** — to fasten belongings securely
-
-**19. степь** — steppe; a vast, mostly treeless grassland in Eurasia, similar to a prairie
-
-**20. священный** — sacred; holy
-
-  
-  
-
-
+- **переживать бум** — to experience a boom; to become rapidly more popular
+- **достойный маршрут** — a worthwhile route
+- **покорять** — to conquer; to successfully complete a challenging route
+- **горный серпантин** — a winding mountain road
+- **велопоездка** — a bicycle trip
+- **предгорье** — foothill
+- **шаманский мыс** — shamanic cape
+- **гравий** — gravel
+- **сбавить давление** — to reduce the pressure
+- **шина** — tire
+- **переменчивая погода** — changeable weather
+- **ветровка** — windbreaker
+- **прогреваться** — to warm up
+- **паром** — ferry
+- **турбаза** — tourist base; holiday camp
+- **источник** — water source
+- **подстраиваться** — to adapt
+- **закрепить вещи** — to fasten belongings securely
+- **степь** — steppe; a vast, mostly treeless grassland in Eurasia, similar to a prairie
+- **священный** — sacred; holy
 
 **Comprehension check:**
 
-1. **What is the approximate length of the route from Irkutsk to Olkhon?**
-A. About 100 kilometers
-B. About 200 kilometers
-C. About 300 kilometers
-D. About 500 kilometers
+1. What is the approximate length of the route from Irkutsk to Olkhon?
+   - A. About 100 kilometers
+   - B. About 200 kilometers
+   - C. About 300 kilometers
+   - D. About 500 kilometers
 
-2. **Why do experienced cyclists advise reducing tire pressure on Olkhon?**
-A. To ride faster on asphalt
-B. To make riding on sand easier
-C. To reduce the risk of being blown off course by strong winds
-D. To prevent the tires from overheating during hot afternoons
+2. Why do experienced cyclists advise reducing tire pressure on Olkhon?
+   - A. To ride faster on asphalt
+   - B. To make riding on sand easier
+   - C. To reduce the risk of being blown off course by strong winds
+   - D. To prevent the tires from overheating during hot afternoons
 
-3. **When does the text recommend taking this route around Lake Baikal?**
-A. March–April
-B. May–June
-C. July–August
-D. October–November
+3. When does the text recommend taking this route around Lake Baikal?
+   - A. March–April
+   - B. May–June
+   - C. July–August
+   - D. October–November
 
-4. **Why is water mentioned in the route advice?**
-A. Cyclists may have difficulty finding places to refill their drinking water.
-B. Cyclists are reassured they can drink directly from Lake Baikal throughout the trip, since it is a source of the purest water on earth.
-C. Cyclists need water to wash sand from their bicycles each evening.
-D. Cyclists should be aware of the fact that even in summer water is cold in Baikal.
+4. Why is water mentioned in the route advice?
+   - A. Cyclists may have difficulty finding places to refill their drinking water.
+   - B. Cyclists are reassured they can drink directly from Lake Baikal throughout the trip, since it is a source of the purest water on earth.
+   - C. Cyclists need water to wash sand from their bicycles each evening.
+   - D. Cyclists should be aware of the fact that even in summer water is cold in Baikal.
 
-5. **Where does the text recommend staying on Olkhon Island?**
-A. In the village of Khuzhir, since affordable hotels are available there
-B. In central Irkutsk, since it has great infrastructure
-C. At Cape Burkhan, since it is a scenic place
-D. In the foothills near Lake Baikal, since there is an easy access to the lake
+5. Where does the text recommend staying on Olkhon Island?
+   - A. In the village of Khuzhir, since affordable hotels are available there
+   - B. In central Irkutsk, since it has great infrastructure
+   - C. At Cape Burkhan, since it is a scenic place
+   - D. In the foothills near Lake Baikal, since there is an easy access to the lake
 
 ### Reading
 
-
+*(Reading passage text to be added.)*
 
 ### Post-Reading
 
+**Discussion questions:**
 
-
-
-
+*(To be added.)*
 
 ## 4. Listening Comprehension — Passage 2
 
-### Pre-Listening
-
-**Vocabulary:**
-
-*(vocab list for this passage — paste or type here)*
-
-**Comprehension check (multiple choice):**
-
-1. *(question 1)*
-2. *(question 2)*
-3. *(question 3)*
-4. *(question 4)*
-5. *(question 5)*
-
-### Listening
-
-<audio controls src="../../assets/audio/m00-d1-l2-audio.mp3"></audio>
-
-**Transcript:** *(paste transcript text here, or link to it)*
-
-**Video (optional):**
-
-*(For students who want to relisten with visuals. Upload as an unlisted YouTube video and embed it here — delete this block entirely if there's no video for this passage.)*
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" title="m00-d1-l2 video" frameborder="0" allowfullscreen></iframe>
-
-### Post-Listening
-
-**Discussion questions:**
-
-1. *(question 1 — delete if you only need one)*
-2. *(question 2 — delete if you only need one)*
-3. *(question 3 — delete if you only need one)*
+*(To be added.)*
 
 ## 5. Reading Comprehension — Passage 2
 
-### Pre-Reading
-
-**Vocabulary:**
-
-*(vocab list for this passage — paste or type here)*
-
-**Comprehension check (multiple choice):**
-
-1. *(question 1)*
-2. *(question 2)*
-3. *(question 3)*
-4. *(question 4)*
-5. *(question 5)*
-
-### Reading
-
-*(Paste or embed the reading passage here.)*
-
-### Post-Reading
-
-**Discussion questions:**
-
-1. *(question 1 — delete if you only need one)*
-2. *(question 2 — delete if you only need one)*
-3. *(question 3 — delete if you only need one)*
+*(To be added.)*
 
 ## 6. Topical Discussion
 
