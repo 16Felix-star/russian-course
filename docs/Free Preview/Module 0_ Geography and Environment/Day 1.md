@@ -12,8 +12,7 @@ tags: [free-preview]
 **Topic:** География и окружающая среда
 
 **Warm-up question(s):**
-![Volga River](../../
-assets/images/volga_river_slavic.jpg)
+![Volga River](../../../assets/images/volga_river_slavic.jpg)
 1. Что вы знаете о географии России?
 2.  Где находится Волга?
 3.  Чем известен север России?
