@@ -29,8 +29,5 @@ Every day includes two listening passages and two reading passages — each with
 - **Vocabulary Review** — info-gap and translation exercise
 
 Try Module 0 (Geography and Environment) for free below. The full 11-module course is available as a one-time purchase.
-
-- [[Free Preview/Module 0_ Geography and Environment/Day 1|Module 0, Day 1 — Free Preview]]
 - [Module 0, Day 1 (PDF)](assets/Module_0_Day_1.pdf)
-- [[Free Preview/Module 0_ Geography and Environment/Day 2|Module 0, Day 2 — Free Preview]]
 - [[get-full-course|Get the Full Course →]]
