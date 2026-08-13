@@ -14,7 +14,9 @@ tags: [free-preview]
 **Warm-up question(s):**
 
 1. Что вы знаете о географии России?
+
 2. Где находится Волга?
+
 3. Чем известен север России?
 
 ## 2. Listening Comprehension — Passage 1
@@ -40,31 +42,31 @@ tags: [free-preview]
 
 **Comprehension check (multiple choice):**
 
-1. What is the significance of the Volga River in Russia?
+**1. What is the significance of the Volga River in Russia?**
    - A) It is a small river used mainly for fishing.
    - B) It symbolizes Russia and connects different regions.
    - C) It flows entirely within Tver Oblast.
    - D) It is the only river in Russia with a delta.
 
-2. What does the term "Заволжье" refer to?
+**2. What does the term "Заволжье" refer to?**
    - A) The upper forested part of the Volga
    - B) The low area on the opposite side of the Volga from the high right bank
    - C) The delta region of the Volga
    - D) The steppe region south of Samara
 
-3. Which feature of the Volga delta is highlighted in the text?
+**3. Which feature of the Volga delta is highlighted in the text?**
    - A) Its network of canals
    - B) The Astrakhan lotus fields
    - C) The portage routes
    - D) The largest bridge
 
-4. Why is the Volga called the «главная улица» of Russia?
+**4. Why is the Volga called the «главная улица» of Russia?**
    - A) Because it has the longest bridge in Europe
    - B) Because it historically served as a main transport and trade route
    - C) Because it flows exclusively through cities
    - D) Because it has many lotus fields
 
-5. What is stated in the segment about the Volga's role in Russian culture?
+**5. What is stated in the segment about the Volga's role in Russian culture?**
    - A) It only serves multiple economic purposes.
    - B) It unites diverse peoples and regions of Russia.
    - C) It is a foremost tourist attraction.
@@ -85,7 +87,9 @@ tags: [free-preview]
 **Discussion questions:**
 
 1. Что нового вы узнали о Волге?
+
 2. Есть ли в вашей стране природный объект, который является ее "символом"?
+
 3. Какие два способа связи Волги с морями упоминаются в отрывке?
 
 ## 3. Reading Comprehension — Passage 1
@@ -97,7 +101,9 @@ tags: [free-preview]
 **Warm-up question(s):**
 
 1. Любите ли вы путешествовать?
+
 2. Какие виды туризма вы предпочитаете и почему?
+
 3. Какие города или страны вы хотели бы посетить и почему?
 
 **Vocabulary:**
@@ -125,31 +131,31 @@ tags: [free-preview]
 
 **Comprehension check:**
 
-1. What is the approximate length of the route from Irkutsk to Olkhon?
+**1. What is the approximate length of the route from Irkutsk to Olkhon?**
    - A. About 100 kilometers
    - B. About 200 kilometers
    - C. About 300 kilometers
    - D. About 500 kilometers
 
-2. Why do experienced cyclists advise reducing tire pressure on Olkhon?
+**2. Why do experienced cyclists advise reducing tire pressure on Olkhon?**
    - A. To ride faster on asphalt
    - B. To make riding on sand easier
    - C. To reduce the risk of being blown off course by strong winds
    - D. To prevent the tires from overheating during hot afternoons
 
-3. When does the text recommend taking this route around Lake Baikal?
+**3. When does the text recommend taking this route around Lake Baikal?**
    - A. March–April
    - B. May–June
    - C. July–August
    - D. October–November
 
-4. Why is water mentioned in the route advice?
+**4. Why is water mentioned in the route advice?**
    - A. Cyclists may have difficulty finding places to refill their drinking water.
    - B. Cyclists are reassured they can drink directly from Lake Baikal throughout the trip, since it is a source of the purest water on earth.
    - C. Cyclists need water to wash sand from their bicycles each evening.
    - D. Cyclists should be aware of the fact that even in summer water is cold in Baikal.
 
-5. Where does the text recommend staying on Olkhon Island?
+**5. Where does the text recommend staying on Olkhon Island?**
    - A. In the village of Khuzhir, since affordable hotels are available there
    - B. In central Irkutsk, since it has great infrastructure
    - C. At Cape Burkhan, since it is a scenic place
