@@ -39,5 +39,4 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - "Free Preview — Module 0: Geography and Environment":
   - Get the Full Course: get-full-course.md
